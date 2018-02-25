@@ -1,4 +1,5 @@
 # Шпаргалка по консольным командам Git
+![logo](https://avatars3.githubusercontent.com/u/18133?s=200&v=4)
 
 ## Общее
 
