@@ -1,5 +1,5 @@
 <h1 align="center">Шпаргалка по консольным командам Git</h1> 
-<p align="center"><img src="https://jakeroid.com/ru/blog/wp-content/uploads/2014/01/git-dlya-novichkov.png" style="display: block; width: 128px"></p>
+<div align="center" style="width: 128px; margin: 0 auto"><img src="https://jakeroid.com/ru/blog/wp-content/uploads/2014/01/git-dlya-novichkov.png" ></div>
 
 
 ## Общее
