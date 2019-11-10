@@ -100,6 +100,12 @@ git reset HEAD file-name
 git reset HEAD css/main.css
 ```
 
+### Как отменить все незакоммиченные изменения
+
+```bash
+git reset --hard HEAD
+```
+
 ### Как посмотреть изменения в определенном коммите
 
 ``` bash
